@@ -7,9 +7,10 @@ verify_ssl = true
 mypy = "*"
 pylint = "*"
 flake8 = "*"
+pytest = "*"
 
 [packages]
 chalice = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
